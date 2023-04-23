@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adulkargaurav09@gmail.com, 9834066269**
 
-- ⚡ Fun fact **I am an Automotive Enthusiast**
+- ⚡ Interesting fact **I am an Automotive Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
