@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Automotive Garage Management System**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
