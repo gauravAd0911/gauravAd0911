@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravad0911&label=Profile%20views&color=0e75b6&style=flat" alt="gauravad0911" /> </p>
 
-- 🔭 I’m currently working on **Automotive Garage Management System**
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [gauravAd0911](gauravAd0911)
 
-- 📫 How to reach me **adulkargaurav09@gmail.com, 9834066269**
+- 📫 How to reach me **adulkargaurav09@gmail.com, 9113625539**
 
 - ⚡ Interesting fact **I am an Automotive Enthusiast**
 
